@@ -3553,6 +3553,7 @@ figcaption {
 
   .navbar-menu {
     position: absolute;
+    width: 100%;
     display: -webkit-box;
     display: -webkit-flex;
     display: -ms-flexbox;
@@ -3570,7 +3571,7 @@ figcaption {
   }
 
   .navbar-menu.is-page-height-tablet {
-    padding-bottom: 15rem;
+    padding-bottom: 5rem;
     border-bottom-style: none;
     background-color: #000;
   }
